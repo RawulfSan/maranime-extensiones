@@ -1,0 +1,13 @@
+{
+  "id": "olympusbiblioteca",
+  "name": "Olympus Biblioteca",
+  "description": "Proveedor de manga/manhwa en español de Olympus Scanlation.",
+  "manifestURI": "manifest.json",
+  "author": "custom",
+  "type": "manga-provider",
+  "language": "javascript",
+  "lang": "es",
+  "version": "1.0.0",
+  "icon": "https://olympusbiblioteca.com/olympus-logo-96.webp",
+  "website": "https://olympusbiblioteca.com"
+}
